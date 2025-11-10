@@ -1,7 +1,7 @@
 # Disease Detection Architecture
 
 ## Current Flow / Architecture
-![Current Architecture](./Current%20Architecture.jpeg)
+![Current Architecture](./Current%20Architecture.jpg)
 
 ## MCP Flow / Architecture
-![MCP Architecture](./MCP%20Flow%20Architecture.png)
+![MCP Architecture](./MCP%20Architecture.jpg)
